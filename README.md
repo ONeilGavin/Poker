@@ -1,2 +1,2 @@
 # Poker
-Text-based poker made in java.
+Text-based poker with a playable computer opponent made in Java.
